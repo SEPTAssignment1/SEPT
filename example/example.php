@@ -12,7 +12,8 @@ $forecast = new ForecastIO($api_key, $units, $lang);
 
 // all default will be
 // $forecast = new ForecastIO($api_key);
-
+ 
+ 
 
 /*
  * GET CURRENT CONDITIONS
